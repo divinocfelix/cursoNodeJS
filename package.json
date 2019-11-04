@@ -1,0 +1,23 @@
+{
+  "name": "portal_noticia",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divinocfelix/cursoNodeJS.git"
+  },
+  "author": "Divino Junio da Cruz Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divinocfelix/cursoNodeJS/issues"
+  },
+  "homepage": "https://github.com/divinocfelix/cursoNodeJS#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
